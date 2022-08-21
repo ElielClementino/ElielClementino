@@ -1,12 +1,9 @@
-### Hi there 👋. I'm Eliel Clementino.
-
 <!--
 - 🔭 I’m currently working on Buser
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 -->
-- 🌱 I’m currently learning python, django.
-
+### Hi there 👋. I'm Eliel Clementino.
 <div align="center" display:'inline'>
   <a href="https://github.com/ElielClementino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElielClementino&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
