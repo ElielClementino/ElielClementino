@@ -43,8 +43,9 @@
 <img height='40' alt='Django-Framework' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" >
 </code>
 </div>
-<div>
-![Snake animation](https://github.com/ElielClementino/ElielClementino/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+## My Contributions
+   ![snake gif](https://github.com/ElielClementino/ElielClementino/blob/output/github-contribution-grid-snake.gif)
+
 
 
