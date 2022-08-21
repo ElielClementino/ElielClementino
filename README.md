@@ -10,7 +10,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielClementino&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=aura"/>
   </a>
 </div>
- ##
+
+  ##
+----
 <div style='display:inline-block'>
 <code>
     <img align="center" height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
