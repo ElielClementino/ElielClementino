@@ -7,7 +7,7 @@
 -->
 - 🌱 I’m currently learning python, django.
 
-<div align="center">
+<div align="center" display:inline-block;>
   <a href="https://github.com/ElielClementino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElielClementino&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielClementino&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=aura"/>
