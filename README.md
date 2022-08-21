@@ -4,10 +4,10 @@
 - 📫 How to reach me: ...
 -->
 ### Hi there 👋. I'm Eliel Clementino.
-<div align="center" display:'inline'>
+<div align="center">
   <a href="https://github.com/ElielClementino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElielClementino&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielClementino&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=aura"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ElielClementino&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielClementino&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=aura"/>
   </a>
 </div>
 <div style='display:inline-block'>
