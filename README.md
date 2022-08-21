@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋. I'm Eliel Clementino.
 
 <!--
 - 🔭 I’m currently working on Buser
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 -->
-
 - 🌱 I’m currently learning python, django.
 
 <div align="center">
